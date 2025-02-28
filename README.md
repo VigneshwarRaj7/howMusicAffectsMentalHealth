@@ -153,7 +153,7 @@ This project provides an **exploratory analysis** of how music affects mental he
 - Deploy model using FastAPI.
 
 ### **Author:**
-- [Your Name]
-- [Your Email]
-- [Your GitHub]
+- Vigneshwar Raj Rajagopalan
+- vigneshrajr@outlook.com
+- VigneshwarRaj7
 
